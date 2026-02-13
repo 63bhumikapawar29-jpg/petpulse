@@ -1,0 +1,31 @@
+body {
+font-family: 'Segoe UI', sans-serif;
+background: linear-gradient(to right, #eaf4ff, #f8fbff);
+}
+
+.section-box {
+background: white;
+border-radius: 12px;
+box-shadow: 0px 4px 15px rgba(0,0,0,0.05);
+}
+
+.navbar {
+background: #ffffff;
+}
+
+.btn-primary {
+background-color: #4F8EF7;
+border: none;
+}
+
+.btn-primary:hover {
+background-color: #3B6FD8;
+}
+
+.card {
+border-radius: 10px;
+}
+
+html {
+scroll-behavior: smooth;
+}
